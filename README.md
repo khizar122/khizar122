@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khizar122
 - 👀 I’m interested in Mobile and Web App Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Web Apps Development
+- 💞️ I’m looking to collaborate on Web & Mobile Apps Development
 - 📫 How to reach me raokhizar49@gmail.com
 
 <!---
