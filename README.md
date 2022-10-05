@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizar122
 - 👀 I’m interested in Mobile and Web App Development
-- 🌱 I’m currently working on MERN Stack
+- 🌱 I’m currently working as MERN Stack Developer
 - 💞️ I’m looking to collaborate on Web & Mobile Apps Development
 - 📫 How to reach me raokhizar49@gmail.com
 
